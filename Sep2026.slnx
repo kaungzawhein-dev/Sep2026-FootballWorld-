@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Sep2026.FootballWorld.Database/Sep2026.FootballWorld.Database.csproj" Id="57c5bc7e-ffaa-449d-ae42-c997ff3af48b" />
+  <Project Path="Sep2026.FootballWorld/Sep2026.FootballWorld.csproj" />
+  <Project Path="Sep2026.FootballWorld1/Sep2026.FootballWorld1.csproj" Id="7ff0fbc6-81a9-42cc-ac44-f1acb8eac448" />
+</Solution>
